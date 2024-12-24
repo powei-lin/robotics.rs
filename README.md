@@ -46,6 +46,7 @@ List of (awesome) Rust libraries for Robotics. If you know something awesome (or
 * [k](https://github.com/OTL/k) -  k: Kinematics Library for rust-lang.
 * [static-math](https://github.com/elsuizo/static-math) - Safe and fast mathematical operations with static arrays in Rust programming language thinked for robotics
 * [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional tensor arithmetic library, inspired by python's NumPy.
+* [faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language.
 * [tiny-solver](https://github.com/powei-lin/tiny-solver-rs) - General non-linear least-square problem solver.
 * [factrs](https://github.com/rpl-cmu/factrs) - Factor graph optimization.
 
